@@ -1,7 +1,7 @@
 {
-  "startTimestamp": "1640947087",
-  "endTimestamp": "1640947088",
-  "refHeight": "5073",
+  "startTimestamp": "1640950037",
+  "endTimestamp": "1640950038",
+  "refHeight": "5078",
   "punks": [
     {
       "id": "1"
@@ -7285,7 +7285,12 @@
     {
       "id": "1886",
       "timestamp": "1640661454",
-      "owner": "vite_2d599b46bad4bae20207f163e3e476b06da272e603491dcc13"
+      "owner": "vite_2d599b46bad4bae20207f163e3e476b06da272e603491dcc13",
+      "bid": {
+        "timestamp": "1640948644",
+        "bidder": "vite_d78e0f44e04f79b0f7ce26a1cee816f9b82886a7a6557bf571",
+        "amount": "250000000000000000000"
+      }
     },
     {
       "id": "1887",
@@ -10521,7 +10526,12 @@
     {
       "id": "2708",
       "timestamp": "1640441820",
-      "owner": "vite_aea4e30235ea1782876e066c0c604ef8e15f47b1f4ac8772d1"
+      "owner": "vite_aea4e30235ea1782876e066c0c604ef8e15f47b1f4ac8772d1",
+      "bid": {
+        "timestamp": "1640948790",
+        "bidder": "vite_d78e0f44e04f79b0f7ce26a1cee816f9b82886a7a6557bf571",
+        "amount": "250000000000000000000"
+      }
     },
     {
       "id": "2709"
@@ -11335,7 +11345,12 @@
     {
       "id": "2924",
       "timestamp": "1640741223",
-      "owner": "vite_5eeeefe5dbd9c509f665e3c6ded9b25d6551b7e3d7dd5ff0cf"
+      "owner": "vite_5eeeefe5dbd9c509f665e3c6ded9b25d6551b7e3d7dd5ff0cf",
+      "bid": {
+        "timestamp": "1640947157",
+        "bidder": "vite_d78e0f44e04f79b0f7ce26a1cee816f9b82886a7a6557bf571",
+        "amount": "250000000000000000000"
+      }
     },
     {
       "id": "2925"
@@ -34197,7 +34212,15 @@
       "id": "8872"
     },
     {
-      "id": "8873"
+      "id": "8873",
+      "timestamp": "1640947560",
+      "owner": "vite_d78e0f44e04f79b0f7ce26a1cee816f9b82886a7a6557bf571",
+      "offer": {
+        "timestamp": "1640947595",
+        "seller": "",
+        "minAmount": "5000000000000000000000",
+        "onlySellTo": ""
+      }
     },
     {
       "id": "8874"
@@ -38500,16 +38523,16 @@
       "id": "9997",
       "timestamp": "1640794162",
       "owner": "vite_d78e0f44e04f79b0f7ce26a1cee816f9b82886a7a6557bf571",
-      "bid": {
-        "timestamp": "1640204580",
-        "bidder": "vite_d78e0f44e04f79b0f7ce26a1cee816f9b82886a7a6557bf571",
-        "amount": "250000000000000000000"
-      },
       "offer": {
         "timestamp": "1640946279",
         "seller": "",
         "minAmount": "400000000000000000000000",
         "onlySellTo": ""
+      },
+      "bid": {
+        "timestamp": "1640204580",
+        "bidder": "vite_d78e0f44e04f79b0f7ce26a1cee816f9b82886a7a6557bf571",
+        "amount": "250000000000000000000"
       }
     },
     {
