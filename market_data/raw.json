@@ -1,7 +1,7 @@
 {
-  "startTimestamp": "1641222771",
-  "endTimestamp": "1641222771",
-  "refHeight": "5137",
+  "startTimestamp": "1641233659",
+  "endTimestamp": "1641233659",
+  "refHeight": "5145",
   "punks": [
     {
       "id": "1"
@@ -10422,7 +10422,12 @@
     {
       "id": "2681",
       "timestamp": "1641021878",
-      "owner": "vite_80bfb2c7745e705a458412335f47567b00afe2e658635f46bb"
+      "owner": "vite_80bfb2c7745e705a458412335f47567b00afe2e658635f46bb",
+      "bid": {
+        "timestamp": "1641231675",
+        "bidder": "vite_d78e0f44e04f79b0f7ce26a1cee816f9b82886a7a6557bf571",
+        "amount": "250000000000000000000"
+      }
     },
     {
       "id": "2682",
@@ -10533,12 +10538,7 @@
     {
       "id": "2708",
       "timestamp": "1640441820",
-      "owner": "vite_aea4e30235ea1782876e066c0c604ef8e15f47b1f4ac8772d1",
-      "bid": {
-        "timestamp": "1640948790",
-        "bidder": "vite_d78e0f44e04f79b0f7ce26a1cee816f9b82886a7a6557bf571",
-        "amount": "250000000000000000000"
-      }
+      "owner": "vite_aea4e30235ea1782876e066c0c604ef8e15f47b1f4ac8772d1"
     },
     {
       "id": "2709"
@@ -14773,7 +14773,9 @@
       "owner": "vite_24f788fe4dc011cc8fdbc8595255465751b824a670be7be072"
     },
     {
-      "id": "3827"
+      "id": "3827",
+      "timestamp": "1641232860",
+      "owner": "vite_604e4ce889c8b1c946d0c827ad122774963e010de3354817da"
     },
     {
       "id": "3828"
@@ -22404,7 +22406,9 @@
       "owner": "vite_2995b2d92027635d23f1947d66261d3f32a02492b975920541"
     },
     {
-      "id": "5812"
+      "id": "5812",
+      "timestamp": "1641232811",
+      "owner": "vite_604e4ce889c8b1c946d0c827ad122774963e010de3354817da"
     },
     {
       "id": "5813"
@@ -26903,7 +26907,9 @@
       "owner": "vite_aea4e30235ea1782876e066c0c604ef8e15f47b1f4ac8772d1"
     },
     {
-      "id": "6971"
+      "id": "6971",
+      "timestamp": "1641233327",
+      "owner": "vite_a30fffaa5f32110bdc6064739e6d0621aa6d058de482ce89af"
     },
     {
       "id": "6972"
@@ -30198,7 +30204,9 @@
       "owner": "vite_16fb480b525170025bf56687a380ba7383e6af5eedf9140a89"
     },
     {
-      "id": "7820"
+      "id": "7820",
+      "timestamp": "1641232835",
+      "owner": "vite_604e4ce889c8b1c946d0c827ad122774963e010de3354817da"
     },
     {
       "id": "7821",
@@ -37462,7 +37470,9 @@
       "owner": "vite_9fa653eaa6273980878211cc49b04273c8bdbfbe7af030978a"
     },
     {
-      "id": "9693"
+      "id": "9693",
+      "timestamp": "1641233247",
+      "owner": "vite_a30fffaa5f32110bdc6064739e6d0621aa6d058de482ce89af"
     },
     {
       "id": "9694",
@@ -38223,7 +38233,9 @@
       "id": "9903"
     },
     {
-      "id": "9904"
+      "id": "9904",
+      "timestamp": "1641232785",
+      "owner": "vite_604e4ce889c8b1c946d0c827ad122774963e010de3354817da"
     },
     {
       "id": "9905"
