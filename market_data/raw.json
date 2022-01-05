@@ -1,7 +1,7 @@
 {
-  "startTimestamp": "1641420721",
-  "endTimestamp": "1641420721",
-  "refHeight": "6105",
+  "startTimestamp": "1641424341",
+  "endTimestamp": "1641424341",
+  "refHeight": "6111",
   "punks": [
     {
       "id": "1"
@@ -21658,9 +21658,9 @@
       "timestamp": "1641377471",
       "owner": "vite_06cb12a072a9fb68087bfc9daf4b4fa455fe59bac1fdd5db90",
       "offer": {
-        "timestamp": "1641377528",
+        "timestamp": "1641422832",
         "seller": "",
-        "minAmount": "600000000000000000000",
+        "minAmount": "200000000000000000000000",
         "onlySellTo": ""
       }
     },
@@ -26902,7 +26902,9 @@
       "owner": "vite_caaa8d1637482a84e6b4f6af356c176549380ce474669ffb01"
     },
     {
-      "id": "6403"
+      "id": "6403",
+      "timestamp": "1641422408",
+      "owner": "vite_06cb12a072a9fb68087bfc9daf4b4fa455fe59bac1fdd5db90"
     },
     {
       "id": "6404",
@@ -38105,7 +38107,9 @@
       "owner": "vite_24f788fe4dc011cc8fdbc8595255465751b824a670be7be072"
     },
     {
-      "id": "9063"
+      "id": "9063",
+      "timestamp": "1641420955",
+      "owner": "vite_0a2e68790471baed08e9a911887b3e77ae41d1201c20c68ccc"
     },
     {
       "id": "9064",
@@ -38264,7 +38268,9 @@
       "id": "9099"
     },
     {
-      "id": "9100"
+      "id": "9100",
+      "timestamp": "1641420936",
+      "owner": "vite_0a2e68790471baed08e9a911887b3e77ae41d1201c20c68ccc"
     },
     {
       "id": "9101",
@@ -41912,11 +41918,6 @@
         "seller": "",
         "minAmount": "400000000000000000000000",
         "onlySellTo": ""
-      },
-      "bid": {
-        "timestamp": "1641332857",
-        "bidder": "vite_0a2e68790471baed08e9a911887b3e77ae41d1201c20c68ccc",
-        "amount": "400000000000000000000"
       }
     },
     {
