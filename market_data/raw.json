@@ -1,7 +1,7 @@
 {
-  "startTimestamp": "1641481974",
-  "endTimestamp": "1641481975",
-  "refHeight": "6132",
+  "startTimestamp": "1641485933",
+  "endTimestamp": "1641485933",
+  "refHeight": "6137",
   "punks": [
     {
       "id": "1"
@@ -7928,12 +7928,7 @@
     {
       "id": "1886",
       "timestamp": "1640661454",
-      "owner": "vite_2d599b46bad4bae20207f163e3e476b06da272e603491dcc13",
-      "bid": {
-        "timestamp": "1640948644",
-        "bidder": "vite_d78e0f44e04f79b0f7ce26a1cee816f9b82886a7a6557bf571",
-        "amount": "250000000000000000000"
-      }
+      "owner": "vite_2d599b46bad4bae20207f163e3e476b06da272e603491dcc13"
     },
     {
       "id": "1887",
@@ -8961,12 +8956,7 @@
     {
       "id": "2132",
       "timestamp": "1640122108",
-      "owner": "vite_4a76fc86f357d4b42315f83f5f2dd6fb211dad1fa4bfa79c95",
-      "bid": {
-        "timestamp": "1641218988",
-        "bidder": "vite_d78e0f44e04f79b0f7ce26a1cee816f9b82886a7a6557bf571",
-        "amount": "245000000000000000000"
-      }
+      "owner": "vite_4a76fc86f357d4b42315f83f5f2dd6fb211dad1fa4bfa79c95"
     },
     {
       "id": "2133",
@@ -11361,12 +11351,7 @@
     {
       "id": "2681",
       "timestamp": "1641021878",
-      "owner": "vite_80bfb2c7745e705a458412335f47567b00afe2e658635f46bb",
-      "bid": {
-        "timestamp": "1641231675",
-        "bidder": "vite_d78e0f44e04f79b0f7ce26a1cee816f9b82886a7a6557bf571",
-        "amount": "250000000000000000000"
-      }
+      "owner": "vite_80bfb2c7745e705a458412335f47567b00afe2e658635f46bb"
     },
     {
       "id": "2682",
@@ -20491,12 +20476,7 @@
     {
       "id": "4874",
       "timestamp": "1640137768",
-      "owner": "vite_f8ff8ff22694b6bab7603ecaa533b8be5306846f4076c812a2",
-      "bid": {
-        "timestamp": "1641218887",
-        "bidder": "vite_d78e0f44e04f79b0f7ce26a1cee816f9b82886a7a6557bf571",
-        "amount": "250000000000000000000"
-      }
+      "owner": "vite_f8ff8ff22694b6bab7603ecaa533b8be5306846f4076c812a2"
     },
     {
       "id": "4875"
@@ -28247,12 +28227,7 @@
     {
       "id": "6704",
       "timestamp": "1640107137",
-      "owner": "vite_ea7c8e1b26220a7406d83fae8153d842ee63caf812303e1352",
-      "bid": {
-        "timestamp": "1641218833",
-        "bidder": "vite_d78e0f44e04f79b0f7ce26a1cee816f9b82886a7a6557bf571",
-        "amount": "245000000000000000000"
-      }
+      "owner": "vite_ea7c8e1b26220a7406d83fae8153d842ee63caf812303e1352"
     },
     {
       "id": "6705"
