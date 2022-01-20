@@ -1,7 +1,7 @@
 {
-  "startTimestamp": "1642630299",
-  "endTimestamp": "1642630299",
-  "refHeight": "6725",
+  "startTimestamp": "1642644543",
+  "endTimestamp": "1642644543",
+  "refHeight": "6729",
   "punks": [
     {
       "id": "1"
@@ -11913,14 +11913,8 @@
     },
     {
       "id": "2744",
-      "timestamp": "1640159245",
-      "owner": "vite_9eb1aa07f44cf2cb9ee66e0fc3e0747b8eced0733687a32282",
-      "offer": {
-        "timestamp": "1641714016",
-        "seller": "",
-        "minAmount": "205000000000000000000",
-        "onlySellTo": ""
-      }
+      "timestamp": "1642641084",
+      "owner": "vite_0123e44ed1eab66a53c4de9220f09e5fb37127ca394ba3cc3b"
     },
     {
       "id": "2745"
@@ -24435,14 +24429,8 @@
     },
     {
       "id": "5674",
-      "timestamp": "1640146840",
-      "owner": "vite_495aa545ffc478f3f1ed883f3effbb51c0cd57a0f114621450",
-      "offer": {
-        "timestamp": "1640882566",
-        "seller": "",
-        "minAmount": "220000000000000000000",
-        "onlySellTo": ""
-      }
+      "timestamp": "1642641126",
+      "owner": "vite_0123e44ed1eab66a53c4de9220f09e5fb37127ca394ba3cc3b"
     },
     {
       "id": "5675",
@@ -27182,14 +27170,8 @@
     },
     {
       "id": "6310",
-      "timestamp": "1641795707",
-      "owner": "vite_ea549fb84c9e0c343eaad1d65e156e9bf1d50bf88a1f933ba1",
-      "offer": {
-        "timestamp": "1641795856",
-        "seller": "",
-        "minAmount": "250000000000000000000",
-        "onlySellTo": ""
-      }
+      "timestamp": "1642641199",
+      "owner": "vite_0123e44ed1eab66a53c4de9220f09e5fb37127ca394ba3cc3b"
     },
     {
       "id": "6311",
@@ -27461,14 +27443,8 @@
     },
     {
       "id": "6372",
-      "timestamp": "1640107226",
-      "owner": "vite_9eb1aa07f44cf2cb9ee66e0fc3e0747b8eced0733687a32282",
-      "offer": {
-        "timestamp": "1641714179",
-        "seller": "",
-        "minAmount": "205000000000000000000",
-        "onlySellTo": ""
-      }
+      "timestamp": "1642640982",
+      "owner": "vite_0123e44ed1eab66a53c4de9220f09e5fb37127ca394ba3cc3b"
     },
     {
       "id": "6373",
