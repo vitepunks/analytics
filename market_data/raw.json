@@ -1,7 +1,7 @@
 {
-  "startTimestamp": "1643969431",
-  "endTimestamp": "1643969432",
-  "refHeight": "7871",
+  "startTimestamp": "1643983754",
+  "endTimestamp": "1643983754",
+  "refHeight": "7874",
   "punks": [
     {
       "id": "1",
@@ -2168,7 +2168,13 @@
     {
       "id": "478",
       "timestamp": "1640160659",
-      "owner": "vite_59b5c2b45add64d1b88cff47c61a96a50a248793948dfaa72a"
+      "owner": "vite_59b5c2b45add64d1b88cff47c61a96a50a248793948dfaa72a",
+      "offer": {
+        "timestamp": "1643983045",
+        "seller": "",
+        "minAmount": "500000000000000000000",
+        "onlySellTo": ""
+      }
     },
     {
       "id": "479",
@@ -7382,7 +7388,13 @@
     {
       "id": "1631",
       "timestamp": "1642101569",
-      "owner": "vite_6c04786f436c3c101b9356945c11e2c787f21d41cd0392e1b0"
+      "owner": "vite_6c04786f436c3c101b9356945c11e2c787f21d41cd0392e1b0",
+      "offer": {
+        "timestamp": "1643983380",
+        "seller": "",
+        "minAmount": "0",
+        "onlySellTo": "vite_06cb12a072a9fb68087bfc9daf4b4fa455fe59bac1fdd5db90"
+      }
     },
     {
       "id": "1632",
@@ -30489,7 +30501,13 @@
     {
       "id": "6743",
       "timestamp": "1640184447",
-      "owner": "vite_59b5c2b45add64d1b88cff47c61a96a50a248793948dfaa72a"
+      "owner": "vite_59b5c2b45add64d1b88cff47c61a96a50a248793948dfaa72a",
+      "offer": {
+        "timestamp": "1643982909",
+        "seller": "",
+        "minAmount": "500000000000000000000",
+        "onlySellTo": ""
+      }
     },
     {
       "id": "6744"
