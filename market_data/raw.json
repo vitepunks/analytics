@@ -1,7 +1,7 @@
 {
-  "startTimestamp": "1645058442",
-  "endTimestamp": "1645058443",
-  "refHeight": "8140",
+  "startTimestamp": "1645089082",
+  "endTimestamp": "1645089082",
+  "refHeight": "8142",
   "punks": [
     {
       "id": "1",
@@ -2936,7 +2936,12 @@
     {
       "id": "635",
       "timestamp": "1640123651",
-      "owner": "vite_aea4e30235ea1782876e066c0c604ef8e15f47b1f4ac8772d1"
+      "owner": "vite_aea4e30235ea1782876e066c0c604ef8e15f47b1f4ac8772d1",
+      "bid": {
+        "timestamp": "1645086965",
+        "bidder": "vite_fea740826b7c0da70dfa6a87f80686824310fe338e56d8be54",
+        "amount": "300000000000000000000"
+      }
     },
     {
       "id": "636",
@@ -13313,7 +13318,12 @@
     {
       "id": "2890",
       "timestamp": "1643822385",
-      "owner": "vite_4f0537829130dc838457cfbefd3b91be19e72730d6a7ab912b"
+      "owner": "vite_4f0537829130dc838457cfbefd3b91be19e72730d6a7ab912b",
+      "bid": {
+        "timestamp": "1645087075",
+        "bidder": "vite_fea740826b7c0da70dfa6a87f80686824310fe338e56d8be54",
+        "amount": "300000000000000000000"
+      }
     },
     {
       "id": "2891",
