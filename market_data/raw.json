@@ -1,7 +1,7 @@
 {
-  "startTimestamp": "1645222356",
-  "endTimestamp": "1645222357",
-  "refHeight": "8173",
+  "startTimestamp": "1645225919",
+  "endTimestamp": "1645225920",
+  "refHeight": "8174",
   "punks": [
     {
       "id": "1",
@@ -9651,7 +9651,13 @@
     {
       "id": "2105",
       "timestamp": "1645219520",
-      "owner": "vite_8f418a26fef633fcfbd6438e4d4ddabe4792edbab9a9700001"
+      "owner": "vite_8f418a26fef633fcfbd6438e4d4ddabe4792edbab9a9700001",
+      "offer": {
+        "timestamp": "1645223701",
+        "seller": "",
+        "minAmount": "11000000000000000000000",
+        "onlySellTo": ""
+      }
     },
     {
       "id": "2106",
