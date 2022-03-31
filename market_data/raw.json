@@ -1,7 +1,7 @@
 {
-  "startTimestamp": "1648710832",
-  "endTimestamp": "1648710833",
-  "refHeight": "8271",
+  "startTimestamp": "1648718311",
+  "endTimestamp": "1648718311",
+  "refHeight": "8278",
   "punks": [
     {
       "id": "1",
@@ -4167,7 +4167,9 @@
       "owner": "vite_6b4586fe51d7bb560fb1dab49cf654a8587db965b2bba362f5"
     },
     {
-      "id": "894"
+      "id": "894",
+      "timestamp": "1648718294",
+      "owner": "vite_206a412b3dbc7627db54c87657ae781f2b43852da53a3c1841"
     },
     {
       "id": "895"
@@ -20099,7 +20101,9 @@
       "id": "4360"
     },
     {
-      "id": "4361"
+      "id": "4361",
+      "timestamp": "1648717885",
+      "owner": "vite_206a412b3dbc7627db54c87657ae781f2b43852da53a3c1841"
     },
     {
       "id": "4362"
@@ -22330,7 +22334,9 @@
       "owner": "vite_34e2c02010d744e98c18b911f65b3226383bba67ac4cfd69d1"
     },
     {
-      "id": "4856"
+      "id": "4856",
+      "timestamp": "1648717839",
+      "owner": "vite_206a412b3dbc7627db54c87657ae781f2b43852da53a3c1841"
     },
     {
       "id": "4857"
@@ -32955,7 +32961,9 @@
       "id": "7147"
     },
     {
-      "id": "7148"
+      "id": "7148",
+      "timestamp": "1648717922",
+      "owner": "vite_206a412b3dbc7627db54c87657ae781f2b43852da53a3c1841"
     },
     {
       "id": "7149"
@@ -34658,7 +34666,12 @@
     {
       "id": "7523",
       "timestamp": "1640160862",
-      "owner": "vite_846bbb97d6a7191e3592c7277bd628f63e9cd2123dfb3d1c2a"
+      "owner": "vite_846bbb97d6a7191e3592c7277bd628f63e9cd2123dfb3d1c2a",
+      "bid": {
+        "timestamp": "1648716891",
+        "bidder": "vite_206a412b3dbc7627db54c87657ae781f2b43852da53a3c1841",
+        "amount": "2000000000000000000000"
+      }
     },
     {
       "id": "7524",
@@ -36313,7 +36326,9 @@
       "owner": "vite_caaa8d1637482a84e6b4f6af356c176549380ce474669ffb01"
     },
     {
-      "id": "7883"
+      "id": "7883",
+      "timestamp": "1648717961",
+      "owner": "vite_206a412b3dbc7627db54c87657ae781f2b43852da53a3c1841"
     },
     {
       "id": "7884",
@@ -42721,7 +42736,12 @@
     {
       "id": "9280",
       "timestamp": "1640120377",
-      "owner": "vite_caaa8d1637482a84e6b4f6af356c176549380ce474669ffb01"
+      "owner": "vite_caaa8d1637482a84e6b4f6af356c176549380ce474669ffb01",
+      "bid": {
+        "timestamp": "1648717661",
+        "bidder": "vite_206a412b3dbc7627db54c87657ae781f2b43852da53a3c1841",
+        "amount": "1000000000000000000000"
+      }
     },
     {
       "id": "9281",
