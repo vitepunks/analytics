@@ -1,7 +1,7 @@
 {
-  "startTimestamp": "1649484946",
-  "endTimestamp": "1649484947",
-  "refHeight": "8946",
+  "startTimestamp": "1649488340",
+  "endTimestamp": "1649488340",
+  "refHeight": "9028",
   "punks": [
     {
       "id": "1",
@@ -1122,7 +1122,9 @@
       "owner": "vite_657cd866f518e2bcc5bfde2d85e8cb3a755c7a5641714e60dd"
     },
     {
-      "id": "240"
+      "id": "240",
+      "timestamp": "1649487882",
+      "owner": "vite_206a412b3dbc7627db54c87657ae781f2b43852da53a3c1841"
     },
     {
       "id": "241"
@@ -1746,12 +1748,7 @@
     {
       "id": "372",
       "timestamp": "1643553914",
-      "owner": "vite_657cd866f518e2bcc5bfde2d85e8cb3a755c7a5641714e60dd",
-      "bid": {
-        "timestamp": "1648797307",
-        "bidder": "vite_206a412b3dbc7627db54c87657ae781f2b43852da53a3c1841",
-        "amount": "2700000000000000000000"
-      }
+      "owner": "vite_657cd866f518e2bcc5bfde2d85e8cb3a755c7a5641714e60dd"
     },
     {
       "id": "373"
@@ -2892,7 +2889,9 @@
       "owner": "vite_206a412b3dbc7627db54c87657ae781f2b43852da53a3c1841"
     },
     {
-      "id": "606"
+      "id": "606",
+      "timestamp": "1649487948",
+      "owner": "vite_206a412b3dbc7627db54c87657ae781f2b43852da53a3c1841"
     },
     {
       "id": "607"
@@ -3009,12 +3008,7 @@
     {
       "id": "635",
       "timestamp": "1640123651",
-      "owner": "vite_aea4e30235ea1782876e066c0c604ef8e15f47b1f4ac8772d1",
-      "bid": {
-        "timestamp": "1648796749",
-        "bidder": "vite_206a412b3dbc7627db54c87657ae781f2b43852da53a3c1841",
-        "amount": "4500000000000000000000"
-      }
+      "owner": "vite_aea4e30235ea1782876e066c0c604ef8e15f47b1f4ac8772d1"
     },
     {
       "id": "636",
@@ -3110,7 +3104,9 @@
       "id": "654"
     },
     {
-      "id": "655"
+      "id": "655",
+      "timestamp": "1649488070",
+      "owner": "vite_206a412b3dbc7627db54c87657ae781f2b43852da53a3c1841"
     },
     {
       "id": "656",
@@ -3923,7 +3919,9 @@
       "owner": "vite_6137c4252bd057c65dd31024ac9ed7e484d736545ffa57d85d"
     },
     {
-      "id": "819"
+      "id": "819",
+      "timestamp": "1649488171",
+      "owner": "vite_206a412b3dbc7627db54c87657ae781f2b43852da53a3c1841"
     },
     {
       "id": "820",
@@ -4265,7 +4263,9 @@
       "owner": "vite_ceac16d888ad4240c6e345c961bc306e80bf5dc6cdd3432a18"
     },
     {
-      "id": "891"
+      "id": "891",
+      "timestamp": "1649487828",
+      "owner": "vite_206a412b3dbc7627db54c87657ae781f2b43852da53a3c1841"
     },
     {
       "id": "892"
@@ -4777,7 +4777,9 @@
       "owner": "vite_ceac16d888ad4240c6e345c961bc306e80bf5dc6cdd3432a18"
     },
     {
-      "id": "1005"
+      "id": "1005",
+      "timestamp": "1649486818",
+      "owner": "vite_206a412b3dbc7627db54c87657ae781f2b43852da53a3c1841"
     },
     {
       "id": "1006",
@@ -5020,7 +5022,9 @@
       "id": "1055"
     },
     {
-      "id": "1056"
+      "id": "1056",
+      "timestamp": "1649487276",
+      "owner": "vite_206a412b3dbc7627db54c87657ae781f2b43852da53a3c1841"
     },
     {
       "id": "1057",
@@ -5908,7 +5912,9 @@
       "id": "1238"
     },
     {
-      "id": "1239"
+      "id": "1239",
+      "timestamp": "1649488139",
+      "owner": "vite_206a412b3dbc7627db54c87657ae781f2b43852da53a3c1841"
     },
     {
       "id": "1240",
@@ -6571,7 +6577,9 @@
       "id": "1381"
     },
     {
-      "id": "1382"
+      "id": "1382",
+      "timestamp": "1649486833",
+      "owner": "vite_206a412b3dbc7627db54c87657ae781f2b43852da53a3c1841"
     },
     {
       "id": "1383",
@@ -6606,7 +6614,9 @@
       "owner": "vite_ceac16d888ad4240c6e345c961bc306e80bf5dc6cdd3432a18"
     },
     {
-      "id": "1389"
+      "id": "1389",
+      "timestamp": "1649486790",
+      "owner": "vite_206a412b3dbc7627db54c87657ae781f2b43852da53a3c1841"
     },
     {
       "id": "1390",
@@ -8397,7 +8407,9 @@
       "id": "1775"
     },
     {
-      "id": "1776"
+      "id": "1776",
+      "timestamp": "1649487760",
+      "owner": "vite_206a412b3dbc7627db54c87657ae781f2b43852da53a3c1841"
     },
     {
       "id": "1777"
@@ -8557,7 +8569,9 @@
       "id": "1809"
     },
     {
-      "id": "1810"
+      "id": "1810",
+      "timestamp": "1649487976",
+      "owner": "vite_206a412b3dbc7627db54c87657ae781f2b43852da53a3c1841"
     },
     {
       "id": "1811",
@@ -9051,7 +9065,9 @@
       "owner": "vite_0c9687075f42d4e2e78df9b9fe040fe0f0b6f95eb46c303668"
     },
     {
-      "id": "1912"
+      "id": "1912",
+      "timestamp": "1649487256",
+      "owner": "vite_206a412b3dbc7627db54c87657ae781f2b43852da53a3c1841"
     },
     {
       "id": "1913"
@@ -10111,12 +10127,7 @@
     {
       "id": "2132",
       "timestamp": "1643824792",
-      "owner": "vite_4a76fc86f357d4b42315f83f5f2dd6fb211dad1fa4bfa79c95",
-      "bid": {
-        "timestamp": "1648798523",
-        "bidder": "vite_206a412b3dbc7627db54c87657ae781f2b43852da53a3c1841",
-        "amount": "2450000000000000000000"
-      }
+      "owner": "vite_4a76fc86f357d4b42315f83f5f2dd6fb211dad1fa4bfa79c95"
     },
     {
       "id": "2133",
@@ -10152,12 +10163,7 @@
     {
       "id": "2140",
       "timestamp": "1640109238",
-      "owner": "vite_94c2bd05c387d247b5d1b7b3083162456f8c1e2b7493ff3802",
-      "bid": {
-        "timestamp": "1648798665",
-        "bidder": "vite_206a412b3dbc7627db54c87657ae781f2b43852da53a3c1841",
-        "amount": "1801000000000000000000"
-      }
+      "owner": "vite_94c2bd05c387d247b5d1b7b3083162456f8c1e2b7493ff3802"
     },
     {
       "id": "2141",
@@ -11273,7 +11279,9 @@
       "id": "2369"
     },
     {
-      "id": "2370"
+      "id": "2370",
+      "timestamp": "1649487494",
+      "owner": "vite_206a412b3dbc7627db54c87657ae781f2b43852da53a3c1841"
     },
     {
       "id": "2371"
@@ -11357,7 +11365,15 @@
       "owner": "vite_6d233eaf8024b5242bf0a0acd4f1232896a4d8b0a6e5b78941"
     },
     {
-      "id": "2386"
+      "id": "2386",
+      "timestamp": "1649485823",
+      "owner": "vite_206a412b3dbc7627db54c87657ae781f2b43852da53a3c1841",
+      "offer": {
+        "timestamp": "1649485890",
+        "seller": "",
+        "minAmount": "79000000000000000000000",
+        "onlySellTo": ""
+      }
     },
     {
       "id": "2387",
@@ -11898,11 +11914,6 @@
         "seller": "",
         "minAmount": "1500000000000000000000000",
         "onlySellTo": ""
-      },
-      "bid": {
-        "timestamp": "1648797626",
-        "bidder": "vite_206a412b3dbc7627db54c87657ae781f2b43852da53a3c1841",
-        "amount": "2530000000000000000000"
       }
     },
     {
@@ -12048,7 +12059,9 @@
       "id": "2521"
     },
     {
-      "id": "2522"
+      "id": "2522",
+      "timestamp": "1649487449",
+      "owner": "vite_206a412b3dbc7627db54c87657ae781f2b43852da53a3c1841"
     },
     {
       "id": "2523",
@@ -13097,7 +13110,9 @@
       "owner": "vite_94c2bd05c387d247b5d1b7b3083162456f8c1e2b7493ff3802"
     },
     {
-      "id": "2743"
+      "id": "2743",
+      "timestamp": "1649487565",
+      "owner": "vite_206a412b3dbc7627db54c87657ae781f2b43852da53a3c1841"
     },
     {
       "id": "2744",
@@ -13400,7 +13415,9 @@
       "owner": "vite_af15f6c5600e3c2f70beea5e0335b2f1ee26d9669166a2bdb5"
     },
     {
-      "id": "2808"
+      "id": "2808",
+      "timestamp": "1649487728",
+      "owner": "vite_206a412b3dbc7627db54c87657ae781f2b43852da53a3c1841"
     },
     {
       "id": "2809",
@@ -13663,7 +13680,9 @@
       "owner": "vite_ef054bfa3593ec1d08b0e005062a2cb8d76e85c31e02836d86"
     },
     {
-      "id": "2865"
+      "id": "2865",
+      "timestamp": "1649487797",
+      "owner": "vite_206a412b3dbc7627db54c87657ae781f2b43852da53a3c1841"
     },
     {
       "id": "2866"
@@ -13764,12 +13783,7 @@
     {
       "id": "2890",
       "timestamp": "1643822385",
-      "owner": "vite_4f0537829130dc838457cfbefd3b91be19e72730d6a7ab912b",
-      "bid": {
-        "timestamp": "1648795904",
-        "bidder": "vite_206a412b3dbc7627db54c87657ae781f2b43852da53a3c1841",
-        "amount": "4550000000000000000000"
-      }
+      "owner": "vite_4f0537829130dc838457cfbefd3b91be19e72730d6a7ab912b"
     },
     {
       "id": "2891",
@@ -13959,12 +13973,7 @@
     {
       "id": "2924",
       "timestamp": "1640741223",
-      "owner": "vite_5eeeefe5dbd9c509f665e3c6ded9b25d6551b7e3d7dd5ff0cf",
-      "bid": {
-        "timestamp": "1648797905",
-        "bidder": "vite_206a412b3dbc7627db54c87657ae781f2b43852da53a3c1841",
-        "amount": "1600000000000000000000"
-      }
+      "owner": "vite_5eeeefe5dbd9c509f665e3c6ded9b25d6551b7e3d7dd5ff0cf"
     },
     {
       "id": "2925",
@@ -15079,7 +15088,9 @@
       "owner": "vite_206a412b3dbc7627db54c87657ae781f2b43852da53a3c1841"
     },
     {
-      "id": "3157"
+      "id": "3157",
+      "timestamp": "1649488153",
+      "owner": "vite_206a412b3dbc7627db54c87657ae781f2b43852da53a3c1841"
     },
     {
       "id": "3158"
@@ -15263,7 +15274,9 @@
       "owner": "vite_59b5c2b45add64d1b88cff47c61a96a50a248793948dfaa72a"
     },
     {
-      "id": "3195"
+      "id": "3195",
+      "timestamp": "1649487915",
+      "owner": "vite_206a412b3dbc7627db54c87657ae781f2b43852da53a3c1841"
     },
     {
       "id": "3196",
@@ -17106,7 +17119,9 @@
       "owner": "vite_0b92334433844235528e334c37900226ebf807149d4c1a3ba7"
     },
     {
-      "id": "3595"
+      "id": "3595",
+      "timestamp": "1649487695",
+      "owner": "vite_206a412b3dbc7627db54c87657ae781f2b43852da53a3c1841"
     },
     {
       "id": "3596",
@@ -17737,7 +17752,9 @@
       "id": "3731"
     },
     {
-      "id": "3732"
+      "id": "3732",
+      "timestamp": "1649488210",
+      "owner": "vite_206a412b3dbc7627db54c87657ae781f2b43852da53a3c1841"
     },
     {
       "id": "3733",
@@ -18224,12 +18241,7 @@
     {
       "id": "3831",
       "timestamp": "1644822102",
-      "owner": "vite_cc16277cf99c58d5f65991595bfb5e9d68fbbd90f2a9a5cd32",
-      "bid": {
-        "timestamp": "1648796255",
-        "bidder": "vite_206a412b3dbc7627db54c87657ae781f2b43852da53a3c1841",
-        "amount": "3250000000000000000000"
-      }
+      "owner": "vite_cc16277cf99c58d5f65991595bfb5e9d68fbbd90f2a9a5cd32"
     },
     {
       "id": "3832"
@@ -19493,7 +19505,9 @@
       "owner": "vite_60cb69dc893304519b7936d9f9f0e46f4293fdd2003d913981"
     },
     {
-      "id": "4092"
+      "id": "4092",
+      "timestamp": "1649487680",
+      "owner": "vite_206a412b3dbc7627db54c87657ae781f2b43852da53a3c1841"
     },
     {
       "id": "4093",
@@ -19813,12 +19827,7 @@
     {
       "id": "4156",
       "timestamp": "1641324475",
-      "owner": "vite_aea4e30235ea1782876e066c0c604ef8e15f47b1f4ac8772d1",
-      "bid": {
-        "timestamp": "1648798120",
-        "bidder": "vite_206a412b3dbc7627db54c87657ae781f2b43852da53a3c1841",
-        "amount": "2300000000000000000000"
-      }
+      "owner": "vite_aea4e30235ea1782876e066c0c604ef8e15f47b1f4ac8772d1"
     },
     {
       "id": "4157",
@@ -19924,12 +19933,7 @@
     {
       "id": "4178",
       "timestamp": "1640343502",
-      "owner": "vite_caaa8d1637482a84e6b4f6af356c176549380ce474669ffb01",
-      "bid": {
-        "timestamp": "1648797741",
-        "bidder": "vite_206a412b3dbc7627db54c87657ae781f2b43852da53a3c1841",
-        "amount": "2540000000000000000000"
-      }
+      "owner": "vite_caaa8d1637482a84e6b4f6af356c176549380ce474669ffb01"
     },
     {
       "id": "4179",
@@ -20855,7 +20859,9 @@
       "id": "4377"
     },
     {
-      "id": "4378"
+      "id": "4378",
+      "timestamp": "1649487847",
+      "owner": "vite_206a412b3dbc7627db54c87657ae781f2b43852da53a3c1841"
     },
     {
       "id": "4379"
@@ -21277,12 +21283,7 @@
     {
       "id": "4464",
       "timestamp": "1642407225",
-      "owner": "vite_ceac16d888ad4240c6e345c961bc306e80bf5dc6cdd3432a18",
-      "bid": {
-        "timestamp": "1648797921",
-        "bidder": "vite_206a412b3dbc7627db54c87657ae781f2b43852da53a3c1841",
-        "amount": "2310000000000000000000"
-      }
+      "owner": "vite_ceac16d888ad4240c6e345c961bc306e80bf5dc6cdd3432a18"
     },
     {
       "id": "4465",
@@ -21413,7 +21414,9 @@
       "owner": "vite_4f0537829130dc838457cfbefd3b91be19e72730d6a7ab912b"
     },
     {
-      "id": "4493"
+      "id": "4493",
+      "timestamp": "1649487213",
+      "owner": "vite_206a412b3dbc7627db54c87657ae781f2b43852da53a3c1841"
     },
     {
       "id": "4494",
@@ -21673,7 +21676,9 @@
       "owner": "vite_94c2bd05c387d247b5d1b7b3083162456f8c1e2b7493ff3802"
     },
     {
-      "id": "4553"
+      "id": "4553",
+      "timestamp": "1649487897",
+      "owner": "vite_206a412b3dbc7627db54c87657ae781f2b43852da53a3c1841"
     },
     {
       "id": "4554",
@@ -21862,7 +21867,9 @@
       "id": "4587"
     },
     {
-      "id": "4588"
+      "id": "4588",
+      "timestamp": "1649486856",
+      "owner": "vite_206a412b3dbc7627db54c87657ae781f2b43852da53a3c1841"
     },
     {
       "id": "4589"
@@ -23100,12 +23107,7 @@
     {
       "id": "4850",
       "timestamp": "1644060424",
-      "owner": "vite_caaa8d1637482a84e6b4f6af356c176549380ce474669ffb01",
-      "bid": {
-        "timestamp": "1648796955",
-        "bidder": "vite_206a412b3dbc7627db54c87657ae781f2b43852da53a3c1841",
-        "amount": "3000000000000000000000"
-      }
+      "owner": "vite_caaa8d1637482a84e6b4f6af356c176549380ce474669ffb01"
     },
     {
       "id": "4851",
@@ -23949,7 +23951,9 @@
       }
     },
     {
-      "id": "5030"
+      "id": "5030",
+      "timestamp": "1649487241",
+      "owner": "vite_206a412b3dbc7627db54c87657ae781f2b43852da53a3c1841"
     },
     {
       "id": "5031",
@@ -25030,7 +25034,9 @@
       "owner": "vite_a750fd799a78719d1bd3ba4bfa497435e73fb248d1e7d715f8"
     },
     {
-      "id": "5255"
+      "id": "5255",
+      "timestamp": "1649487528",
+      "owner": "vite_206a412b3dbc7627db54c87657ae781f2b43852da53a3c1841"
     },
     {
       "id": "5256",
@@ -25293,12 +25299,7 @@
     {
       "id": "5314",
       "timestamp": "1643822488",
-      "owner": "vite_4f0537829130dc838457cfbefd3b91be19e72730d6a7ab912b",
-      "bid": {
-        "timestamp": "1648798236",
-        "bidder": "vite_206a412b3dbc7627db54c87657ae781f2b43852da53a3c1841",
-        "amount": "1800000000000000000000"
-      }
+      "owner": "vite_4f0537829130dc838457cfbefd3b91be19e72730d6a7ab912b"
     },
     {
       "id": "5315"
@@ -26573,12 +26574,7 @@
     {
       "id": "5577",
       "timestamp": "1643670377",
-      "owner": "vite_abd148025d2fe9ea1fd5643574166022ea0b0805cacc051fb9",
-      "bid": {
-        "timestamp": "1648797212",
-        "bidder": "vite_206a412b3dbc7627db54c87657ae781f2b43852da53a3c1841",
-        "amount": "3900000000000000000000"
-      }
+      "owner": "vite_abd148025d2fe9ea1fd5643574166022ea0b0805cacc051fb9"
     },
     {
       "id": "5578",
@@ -26717,7 +26713,13 @@
     {
       "id": "5610",
       "timestamp": "1649406343",
-      "owner": "vite_206a412b3dbc7627db54c87657ae781f2b43852da53a3c1841"
+      "owner": "vite_206a412b3dbc7627db54c87657ae781f2b43852da53a3c1841",
+      "offer": {
+        "timestamp": "1649484959",
+        "seller": "",
+        "minAmount": "8900000000000000000000",
+        "onlySellTo": ""
+      }
     },
     {
       "id": "5611",
@@ -27356,7 +27358,9 @@
       "owner": "vite_4f0537829130dc838457cfbefd3b91be19e72730d6a7ab912b"
     },
     {
-      "id": "5744"
+      "id": "5744",
+      "timestamp": "1649487595",
+      "owner": "vite_206a412b3dbc7627db54c87657ae781f2b43852da53a3c1841"
     },
     {
       "id": "5745",
@@ -27716,11 +27720,6 @@
         "seller": "",
         "minAmount": "550000000000000000000000",
         "onlySellTo": ""
-      },
-      "bid": {
-        "timestamp": "1648795986",
-        "bidder": "vite_206a412b3dbc7627db54c87657ae781f2b43852da53a3c1841",
-        "amount": "4400000000000000000000"
       }
     },
     {
@@ -27781,7 +27780,9 @@
       "id": "5835"
     },
     {
-      "id": "5836"
+      "id": "5836",
+      "timestamp": "1649488195",
+      "owner": "vite_206a412b3dbc7627db54c87657ae781f2b43852da53a3c1841"
     },
     {
       "id": "5837",
@@ -28124,12 +28125,7 @@
     {
       "id": "5905",
       "timestamp": "1642811963",
-      "owner": "vite_ceac16d888ad4240c6e345c961bc306e80bf5dc6cdd3432a18",
-      "bid": {
-        "timestamp": "1648795952",
-        "bidder": "vite_206a412b3dbc7627db54c87657ae781f2b43852da53a3c1841",
-        "amount": "4400000000000000000000"
-      }
+      "owner": "vite_ceac16d888ad4240c6e345c961bc306e80bf5dc6cdd3432a18"
     },
     {
       "id": "5906",
@@ -28161,7 +28157,9 @@
       "id": "5912"
     },
     {
-      "id": "5913"
+      "id": "5913",
+      "timestamp": "1649487464",
+      "owner": "vite_206a412b3dbc7627db54c87657ae781f2b43852da53a3c1841"
     },
     {
       "id": "5914"
@@ -28553,7 +28551,9 @@
       "owner": "vite_846bbb97d6a7191e3592c7277bd628f63e9cd2123dfb3d1c2a"
     },
     {
-      "id": "5993"
+      "id": "5993",
+      "timestamp": "1649488051",
+      "owner": "vite_206a412b3dbc7627db54c87657ae781f2b43852da53a3c1841"
     },
     {
       "id": "5994",
@@ -28972,12 +28972,7 @@
     {
       "id": "6089",
       "timestamp": "1643494485",
-      "owner": "vite_caaa8d1637482a84e6b4f6af356c176549380ce474669ffb01",
-      "bid": {
-        "timestamp": "1648796467",
-        "bidder": "vite_206a412b3dbc7627db54c87657ae781f2b43852da53a3c1841",
-        "amount": "4300000000000000000000"
-      }
+      "owner": "vite_caaa8d1637482a84e6b4f6af356c176549380ce474669ffb01"
     },
     {
       "id": "6090",
@@ -29391,7 +29386,9 @@
       "owner": "vite_af15f6c5600e3c2f70beea5e0335b2f1ee26d9669166a2bdb5"
     },
     {
-      "id": "6171"
+      "id": "6171",
+      "timestamp": "1649487774",
+      "owner": "vite_206a412b3dbc7627db54c87657ae781f2b43852da53a3c1841"
     },
     {
       "id": "6172"
@@ -29429,7 +29426,9 @@
       "owner": "vite_caaa8d1637482a84e6b4f6af356c176549380ce474669ffb01"
     },
     {
-      "id": "6181"
+      "id": "6181",
+      "timestamp": "1649487581",
+      "owner": "vite_206a412b3dbc7627db54c87657ae781f2b43852da53a3c1841"
     },
     {
       "id": "6182",
@@ -32985,11 +32984,6 @@
         "seller": "",
         "minAmount": "1200000000000000000000000",
         "onlySellTo": ""
-      },
-      "bid": {
-        "timestamp": "1648798608",
-        "bidder": "vite_206a412b3dbc7627db54c87657ae781f2b43852da53a3c1841",
-        "amount": "1950000000000000000000"
       }
     },
     {
@@ -33694,7 +33688,9 @@
       "id": "7062"
     },
     {
-      "id": "7063"
+      "id": "7063",
+      "timestamp": "1649487928",
+      "owner": "vite_206a412b3dbc7627db54c87657ae781f2b43852da53a3c1841"
     },
     {
       "id": "7064",
@@ -33988,11 +33984,6 @@
         "seller": "",
         "minAmount": "450000000000000000000000",
         "onlySellTo": ""
-      },
-      "bid": {
-        "timestamp": "1648797524",
-        "bidder": "vite_206a412b3dbc7627db54c87657ae781f2b43852da53a3c1841",
-        "amount": "2050000000000000000000"
       }
     },
     {
@@ -35369,7 +35360,9 @@
       "owner": "vite_caaa8d1637482a84e6b4f6af356c176549380ce474669ffb01"
     },
     {
-      "id": "7417"
+      "id": "7417",
+      "timestamp": "1649487433",
+      "owner": "vite_206a412b3dbc7627db54c87657ae781f2b43852da53a3c1841"
     },
     {
       "id": "7418",
@@ -35833,12 +35826,7 @@
     {
       "id": "7523",
       "timestamp": "1640160862",
-      "owner": "vite_846bbb97d6a7191e3592c7277bd628f63e9cd2123dfb3d1c2a",
-      "bid": {
-        "timestamp": "1648795792",
-        "bidder": "vite_206a412b3dbc7627db54c87657ae781f2b43852da53a3c1841",
-        "amount": "5000000000000000000000"
-      }
+      "owner": "vite_846bbb97d6a7191e3592c7277bd628f63e9cd2123dfb3d1c2a"
     },
     {
       "id": "7524",
@@ -36192,7 +36180,13 @@
     {
       "id": "7601",
       "timestamp": "1649484135",
-      "owner": "vite_206a412b3dbc7627db54c87657ae781f2b43852da53a3c1841"
+      "owner": "vite_206a412b3dbc7627db54c87657ae781f2b43852da53a3c1841",
+      "offer": {
+        "timestamp": "1649485093",
+        "seller": "",
+        "minAmount": "9400000000000000000000",
+        "onlySellTo": ""
+      }
     },
     {
       "id": "7602",
@@ -36434,7 +36428,9 @@
       "owner": "vite_4a76fc86f357d4b42315f83f5f2dd6fb211dad1fa4bfa79c95"
     },
     {
-      "id": "7649"
+      "id": "7649",
+      "timestamp": "1649487635",
+      "owner": "vite_206a412b3dbc7627db54c87657ae781f2b43852da53a3c1841"
     },
     {
       "id": "7650",
@@ -37034,7 +37030,9 @@
       "id": "7771"
     },
     {
-      "id": "7772"
+      "id": "7772",
+      "timestamp": "1649487549",
+      "owner": "vite_206a412b3dbc7627db54c87657ae781f2b43852da53a3c1841"
     },
     {
       "id": "7773",
@@ -38717,12 +38715,7 @@
     {
       "id": "8127",
       "timestamp": "1640112740",
-      "owner": "vite_94c2bd05c387d247b5d1b7b3083162456f8c1e2b7493ff3802",
-      "bid": {
-        "timestamp": "1648798057",
-        "bidder": "vite_206a412b3dbc7627db54c87657ae781f2b43852da53a3c1841",
-        "amount": "1370000000000000000000"
-      }
+      "owner": "vite_94c2bd05c387d247b5d1b7b3083162456f8c1e2b7493ff3802"
     },
     {
       "id": "8128"
@@ -38764,7 +38757,9 @@
       "owner": "vite_4f0537829130dc838457cfbefd3b91be19e72730d6a7ab912b"
     },
     {
-      "id": "8137"
+      "id": "8137",
+      "timestamp": "1649487813",
+      "owner": "vite_206a412b3dbc7627db54c87657ae781f2b43852da53a3c1841"
     },
     {
       "id": "8138",
@@ -39172,11 +39167,6 @@
         "seller": "",
         "minAmount": "1500000000000000000000000",
         "onlySellTo": ""
-      },
-      "bid": {
-        "timestamp": "1648798186",
-        "bidder": "vite_206a412b3dbc7627db54c87657ae781f2b43852da53a3c1841",
-        "amount": "1675000000000000000000"
       }
     },
     {
@@ -39443,7 +39433,9 @@
       "owner": "vite_c411ecd73e6b6e9c0dfcfb040e3e0386914b1ee91db4cb5474"
     },
     {
-      "id": "8273"
+      "id": "8273",
+      "timestamp": "1649487742",
+      "owner": "vite_206a412b3dbc7627db54c87657ae781f2b43852da53a3c1841"
     },
     {
       "id": "8274",
@@ -39555,7 +39547,9 @@
       "owner": "vite_34e2c02010d744e98c18b911f65b3226383bba67ac4cfd69d1"
     },
     {
-      "id": "8295"
+      "id": "8295",
+      "timestamp": "1649486869",
+      "owner": "vite_206a412b3dbc7627db54c87657ae781f2b43852da53a3c1841"
     },
     {
       "id": "8296",
@@ -39734,7 +39728,9 @@
       "owner": "vite_4f0537829130dc838457cfbefd3b91be19e72730d6a7ab912b"
     },
     {
-      "id": "8335"
+      "id": "8335",
+      "timestamp": "1649486774",
+      "owner": "vite_206a412b3dbc7627db54c87657ae781f2b43852da53a3c1841"
     },
     {
       "id": "8336"
@@ -39850,7 +39846,9 @@
       "owner": "vite_7e7568ef7d39a2a35c761a5dfd788d72524e85785789abc51d"
     },
     {
-      "id": "8359"
+      "id": "8359",
+      "timestamp": "1649488034",
+      "owner": "vite_206a412b3dbc7627db54c87657ae781f2b43852da53a3c1841"
     },
     {
       "id": "8360",
@@ -39951,7 +39949,9 @@
       "owner": "vite_e87246623929323a6375db45f7e96b2a46db23ce0053584c76"
     },
     {
-      "id": "8380"
+      "id": "8380",
+      "timestamp": "1649487616",
+      "owner": "vite_206a412b3dbc7627db54c87657ae781f2b43852da53a3c1841"
     },
     {
       "id": "8381",
@@ -40992,7 +40992,9 @@
       "owner": "vite_0a12c812cb315f9a10934fe3d3107fb36740c8ae8f9932523c"
     },
     {
-      "id": "8603"
+      "id": "8603",
+      "timestamp": "1649488088",
+      "owner": "vite_206a412b3dbc7627db54c87657ae781f2b43852da53a3c1841"
     },
     {
       "id": "8604",
@@ -41047,7 +41049,9 @@
       "id": "8615"
     },
     {
-      "id": "8616"
+      "id": "8616",
+      "timestamp": "1649487665",
+      "owner": "vite_206a412b3dbc7627db54c87657ae781f2b43852da53a3c1841"
     },
     {
       "id": "8617",
@@ -41398,13 +41402,17 @@
       "owner": "vite_4f0537829130dc838457cfbefd3b91be19e72730d6a7ab912b"
     },
     {
-      "id": "8689"
+      "id": "8689",
+      "timestamp": "1649486804",
+      "owner": "vite_206a412b3dbc7627db54c87657ae781f2b43852da53a3c1841"
     },
     {
       "id": "8690"
     },
     {
-      "id": "8691"
+      "id": "8691",
+      "timestamp": "1649487865",
+      "owner": "vite_206a412b3dbc7627db54c87657ae781f2b43852da53a3c1841"
     },
     {
       "id": "8692",
@@ -41848,7 +41856,9 @@
       "id": "8788"
     },
     {
-      "id": "8789"
+      "id": "8789",
+      "timestamp": "1649488124",
+      "owner": "vite_206a412b3dbc7627db54c87657ae781f2b43852da53a3c1841"
     },
     {
       "id": "8790",
@@ -43112,7 +43122,9 @@
       }
     },
     {
-      "id": "9055"
+      "id": "9055",
+      "timestamp": "1649487713",
+      "owner": "vite_206a412b3dbc7627db54c87657ae781f2b43852da53a3c1841"
     },
     {
       "id": "9056"
@@ -44037,7 +44049,9 @@
       "owner": "vite_ec9d8b489fdffb1b963b60de3636a8028b8a523978612d4dfd"
     },
     {
-      "id": "9248"
+      "id": "9248",
+      "timestamp": "1649488110",
+      "owner": "vite_206a412b3dbc7627db54c87657ae781f2b43852da53a3c1841"
     },
     {
       "id": "9249"
@@ -44796,7 +44810,9 @@
       }
     },
     {
-      "id": "9411"
+      "id": "9411",
+      "timestamp": "1649488002",
+      "owner": "vite_206a412b3dbc7627db54c87657ae781f2b43852da53a3c1841"
     },
     {
       "id": "9412",
@@ -44885,7 +44901,9 @@
       "id": "9431"
     },
     {
-      "id": "9432"
+      "id": "9432",
+      "timestamp": "1649487480",
+      "owner": "vite_206a412b3dbc7627db54c87657ae781f2b43852da53a3c1841"
     },
     {
       "id": "9433",
@@ -45131,7 +45149,9 @@
       "id": "9485"
     },
     {
-      "id": "9486"
+      "id": "9486",
+      "timestamp": "1649487291",
+      "owner": "vite_206a412b3dbc7627db54c87657ae781f2b43852da53a3c1841"
     },
     {
       "id": "9487",
@@ -45947,7 +45967,9 @@
       "owner": "vite_ceac16d888ad4240c6e345c961bc306e80bf5dc6cdd3432a18"
     },
     {
-      "id": "9664"
+      "id": "9664",
+      "timestamp": "1649487511",
+      "owner": "vite_206a412b3dbc7627db54c87657ae781f2b43852da53a3c1841"
     },
     {
       "id": "9665",
