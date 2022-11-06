@@ -1,7 +1,7 @@
 {
-  "startTimestamp": "1666379962",
-  "endTimestamp": "1666379962",
-  "refHeight": "9628",
+  "startTimestamp": "1667711584",
+  "endTimestamp": "1667711584",
+  "refHeight": "9629",
   "punks": [
     {
       "id": "1"
@@ -4807,7 +4807,13 @@
       "id": "1601"
     },
     {
-      "id": "1602"
+      "id": "1602",
+      "offer": {
+        "timestamp": "1667709830",
+        "seller": "",
+        "minAmount": "80000000000000000000000",
+        "onlySellTo": ""
+      }
     },
     {
       "id": "1603"
